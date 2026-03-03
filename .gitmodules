@@ -1,0 +1,6 @@
+[submodule "Speech_Recognition"]
+	path = Speech_Recognition
+	url = https://github.com/DarkAngel-29/Emotion-Recognition-from-Speech
+[submodule "handwritten-recognition"]
+	path = handwritten-recognition
+	url = https://github.com/DarkAngel-29/Handwriting-Recognition
